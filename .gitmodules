@@ -1,3 +1,6 @@
 [submodule "adx1345"]
 	path = adx1345
 	url = https://github.com/pimoroni/adxl345-python.git
+[submodule "lib/Adafruit-Raspberry-Pi-Python-Code"]
+	path = lib/Adafruit-Raspberry-Pi-Python-Code
+	url = https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code.git
